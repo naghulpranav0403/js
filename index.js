@@ -40,10 +40,10 @@
 // const evenNumbers = numbers.filter(num=>num>2);
 
 // console.log(evenNumbers);
-const numbers =[1,2,3,4,5,6];
+// const numbers =[1,2,3,4,5,6];
 
-// const squarednumber = numbers.map(num=>num*num);
-// console.log(numbers.filter(num=>num%4==1));
-// console.log(squarednumber);
-const sum = numbers.reduce((acc,val)=> acc+val,0);
-console.log(sum);
+// // const squarednumber = numbers.map(num=>num*num);
+// // console.log(numbers.filter(num=>num%4==1));
+// // console.log(squarednumber);
+// const sum = numbers.reduce((acc,val)=> acc+val,0);
+// console.log(sum);
